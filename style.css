@@ -3,7 +3,7 @@ body{
   background: rgb(245,245,245);
   color: pink;
   font-size: 15px;
-  font-family: Helvetica;
+  font-family: Arial;
 }
 h1{
   font-family: Courier;
@@ -18,7 +18,7 @@ h2 {
   font-size: 12px;
 }
 a {
-  color: navy;
+  color: grey;
 }
 a:hover {
   text-decoration: none;
