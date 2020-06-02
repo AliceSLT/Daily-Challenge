@@ -1,24 +1,24 @@
 /* style.css */
 body{
   background: rgb(245,245,245);
-  color: green;
-  font-size: 25px;
+  color: pink;
+  font-size: 20px;
   font-family: Helvetica;
 }
 h1{
   font-family: Courier;
-  color: red;
+  color: black;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 12px;
 }
 h2 {
   font-family: Courier;
   color: pink;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 10px;
 }
 a {
-  color: yellow;
+  color: blue;
 }
 a:hover {
   text-decoration: none;
